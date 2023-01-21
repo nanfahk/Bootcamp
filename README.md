@@ -1,5 +1,5 @@
-# Bootcamp_PROJECT
-Bootcamp for Data science
+# Bootcamp_data science_PROJECT
+# More project is coming!!!
 what I have learn from this course ?
 - more project is coming!!
 - Basic Google sheet
